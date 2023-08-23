@@ -106,3 +106,13 @@ body {
     margin-top: 10px;
     display: none;
 }
+
+@media screen and (max-width: 800px)
+{
+    .search button{
+        
+    background: #ebfffc;
+    cursor: pointer;
+    }
+                
+}
